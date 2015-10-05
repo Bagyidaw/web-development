@@ -1,7 +1,7 @@
 
 <?php
-	$user = "root";
-	$pass = "gh81&8|z3n";
+	$user = "bagyi";
+	$pass = "1234";
     try {
 		$dbh = new PDO ('mysql:host=localhost;dbname=Customers',$user,$pass);
 		$first_name = $_POST['firstname'];
