@@ -21,4 +21,3 @@ table#t01 tr:nth-child(2n+0) {
 table#t01 tr:nth-child(2n+1){
 	background-color: #fff;
 }
-table
